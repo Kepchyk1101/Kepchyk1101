@@ -1,6 +1,4 @@
-# My stack
-
-### About me
+# About me
 I’m mainly a backend developer, working with Java, Spring, and Hibernate. I enjoy building microservices, optimizing performance, and working on high-load systems. I know a bit of frontend (HTML/CSS) to understand the full picture of a project.
 
 In my free time, I develop Minecraft plugins for Paper/Spigot: creating new features, optimizing servers, and integrating them with databases. I love experimenting with new technologies, trying out different tools, and building projects that actually work.
